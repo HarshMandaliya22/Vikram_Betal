@@ -1,6 +1,12 @@
-body
-{
+body {
     background-color: #F9F3CC;
     font-family: 'Noto Sans Gujarati', sans-serif;
     font-family: 'Roboto', sans-serif;
-} 
+    margin: 20px;
+}
+#content {
+    padding-left: 30px;
+}
+#content_1{
+    padding-right: 30px;
+}
